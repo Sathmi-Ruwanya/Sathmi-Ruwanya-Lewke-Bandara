@@ -26,14 +26,3 @@
   - 🧃 Juice Bar Management System (MERN Stack)
 
 ---
-
-### 📌 Tech Stack
-
-```javascript
-{
-  "frontend": ["React.js", "HTML", "CSS", "JavaScript", "Tailwind CSS"],
-  "backend": ["Node.js", "Express.js", "MongoDB", "Firebase"],
-  "mobile": ["Kotlin", "Android Studio"],
-  "tools": ["Git", "VSCode", "Figma", "Postman"],
-  "mechanical": ["SolidWorks", "AutoCAD", "MATLAB"]
-}
