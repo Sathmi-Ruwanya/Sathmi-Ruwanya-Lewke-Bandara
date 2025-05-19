@@ -1,7 +1,5 @@
-# Sathmi-Ruwanya-Lewke-Bandara
-<!-- GitHub README for a Software Engineering + Mechanical Engineering Student -->
 
-<h1 align="center">Hi there! 👋 I'm Lewke Bandara</h1>
+<h1 align="center">Hi there! 👋 I'm Ruwanya Lewke Bandara</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/64/d8/30/64d830634f4813520cf9d3f79b3a7b71.gif" alt="Coding Girl" width="300"/>
